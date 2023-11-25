@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "Var Mısın?",
+      "details": "Doğan Cüceloğlu",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Notre Dama KambuRU",
+      "details": "Victor Hugo",
+      "complete": false
+    },
+    {
+      "title": "Akşam Toplantısı",
+      "details": "Gogol",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Yaşanmış Hikayeler",
+      "details": "Maksim Gorgi",
+      "complete": false,
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 101,
+      "productName": "Tereyağı",
+      "quantityPerUnit": "10 adet/birim",
+      "unitPrice": 190.99,
+      "unitsInStock": 100,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1011_buyuk_543X467_gida58.jpg"
+    },
+    {
+      "id": 2,
+      "categoryId": 101,
+      "productName": "Yarım Yağlı Tost - Sandviç peyniri",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": 170.99,
+      "unitsInStock": 50,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1011_buyuk_543X467_gida60.jpg"
+    },
+    {
+      "id": 3,
+      "categoryId": 101,
+      "productName": "Ayran",
+      "quantityPerUnit": "1 adet/birim",
+      "unitPrice": 20.99,
+      "unitsInStock": 75,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1011_kucuk_543X467_gida56.jpg"
+    },
+    {
+      "id": 4,
+      "categoryId": 102,
+      "productName": "Tereyağı",
+      "quantityPerUnit": "1 adet/birim",
+      "unitPrice": 28,
+      "unitsInStock": 100,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1011_kucuk_543X467_gida29.jpg"
+    },
+    {
+      "id": 5,
+      "categoryId": 103,
+      "productName": "Toz Torbasız Süpürge Veyron Turbo",
+      "quantityPerUnit": "1 adet/birim",
+      "unitPrice": 3299.99,
+      "unitsInStock": 3,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1015_kucuk_543X467_fakir-supurge.jpg"
+    },
+    {
+      "id": 6,
+      "categoryId": 102,
+      "productName": "Osmancık Pirinç",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": 50.99,
+      "unitsInStock": 75,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1011_kucuk_543X467_gida30.jpg"
+    },
+    {
+      "id": 7,
+      "categoryId": 102,
+      "productName": "Koçbaşı Nohut Kırşehir",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": 68.99,
+      "unitsInStock": 100,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1011_kucuk_543X467_gida28.jpg"
+    },
+    {
+      "id": 8,
+      "categoryId": 103,
+      "productName": "Şarjlı Kablosuz Süpürge",
+      "quantityPerUnit": "1 adet/birim",
+      "unitPrice": 170.99,
+      "unitsInStock": 50,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1015_kucuk_543X467_supurge.jpg"
+    },
+    {
+      "id": 9,
+      "categoryId": 101,
+      "productName": "Laktozsuz kefir",
+      "quantityPerUnit": "1 Litre",
+      "unitPrice": 30.99,
+      "unitsInStock": 75,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1011_kucuk_543X467_gida52.jpg"
+    },
+    {
+      "id": 10,
+      "categoryId": 101,
+      "productName": "Tam Yağlı Beyaz Peynir",
+      "quantityPerUnit": "900 gram",
+      "unitPrice": 100.99,
+      "unitsInStock": 75,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1011_kucuk_543X467_gida62.jpg"
+    },
+    {
+      "id": 11,
+      "categoryId": 101,
+      "productName": "Qark Çeşitleri",
+      "quantityPerUnit": "140 gram",
+      "unitPrice": 20.99,
+      "unitsInStock": 75,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1011_kucuk_543X467_gida48.jpg"
+    },
+    {
+      "id": 12,
+      "categoryId": 101,
+      "productName": "Bardak Ayran",
+      "quantityPerUnit": "1 adet/birim",
+      "unitPrice": 3.7,
+      "unitsInStock": 75,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1011_kucuk_543X467_gida47.jpg"
+    },
+    {
+      "id": 13,
+      "categoryId": 101,
+      "productName": "Lor Peyniri",
+      "quantityPerUnit": "1000 gram",
+      "unitPrice": 20.99,
+      "unitsInStock": 75,
+      "imageURL": "https://www.bim.com.tr/Uploads/aktuel-urunler/1011_kucuk_543X467_gida41.jpg"
+    }
+  ]
+}
