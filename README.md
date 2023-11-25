@@ -54,3 +54,6 @@ You can run the project locally by following the steps below.
    ```bash
    git clone https://github.com/user/vue-planner.git
 
+![image (1)](https://github.com/HaticeDilmac/project-planner/assets/100489350/ee3c1b79-6257-4f94-8b79-50573e6d1435)
+![image](https://github.com/HaticeDilmac/project-planner/assets/100489350/bd36ee2b-38fc-40ee-b06e-13b3437ea73d)
+![image (2)](https://github.com/HaticeDilmac/project-planner/assets/100489350/e6e1f6ed-beec-41f3-b7bd-eef0757f4764)
