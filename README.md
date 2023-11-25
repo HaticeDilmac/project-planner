@@ -1,19 +1,3 @@
-# project-planner
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
 
 # Vue.js Planlayıcı Uygulaması
 
@@ -35,6 +19,20 @@ Aşağıdaki adımları izleyerek projeyi yerel ortamınızda çalıştırabilir
    git clone https://github.com/kullanici/vue-planlayici.git
 
 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
 
 
 # Vue.js Planner App
@@ -55,3 +53,4 @@ You can run the project locally by following the steps below.
 
    ```bash
    git clone https://github.com/user/vue-planner.git
+
